@@ -39,8 +39,8 @@
             }else{
                 echo 'Completed';
             }
-            ?> -->
-
+            ?>  -->
+            <!--OR-->
             <?php if($task['completed']) : ?>
                 Incompleted
             <?php else : ?>
