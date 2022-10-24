@@ -7,6 +7,8 @@
     <title>About</title>
 </head>
 <body>
+    <?php require ('partials/new.php') ;?>
+
     <h1>About Us</h1>
     
 </body>

@@ -6,7 +6,7 @@ class Router{
 
     public static function load($file)
     {
-        $router =new static ;//self
+        $router =new self  ;//self
 
         require $file;
         return $router;

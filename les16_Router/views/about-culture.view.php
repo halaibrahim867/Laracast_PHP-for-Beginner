@@ -7,6 +7,8 @@
     <title>Cultures</title>
 </head>
 <body>
+    <?php require ('partials/new.php') ;?>
+
     <h1>Our Culture</h1>
 </body>
 </html>

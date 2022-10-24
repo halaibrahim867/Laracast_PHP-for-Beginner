@@ -7,6 +7,8 @@
     <title>Contact</title>
 </head>
 <body>
+    <?php require ('partials/new.php') ;?>
+
     <h1>Contact Us</h1>
 </body>
 </html>
